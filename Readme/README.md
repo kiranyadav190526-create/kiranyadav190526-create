@@ -117,6 +117,12 @@ I am a second-year B.Tech student at the **Institute of Innovation (IOI), Luckno
   
   <p>⭐ <em>If you like what you see, feel free to explore and star my repositories!</em> ⭐</p>
 </div>
+## Session 4 Assignment
 
+**Name:** Kiran Yadav
+
+This README was added as part of the Session 4 Git and GitHub assignment.
+
+Thank you!
  
 
